@@ -7,7 +7,8 @@ Top Skills
 1.	Invention
 2.	Systems
 3.	Maintenance
-4.	
+4.	Insert Yours [Here]
+
 Featured Projects
 ⦁	Custom Trailers for Military: Designed and deployed specialized trailers tailored for military applications, enhancing mobility and operational capabilities.
 ⦁	MASINT Data Center for the Masses: Developed a Measurement and Signature Intelligence (MASINT) data center accessible to a wider audience, democratizing advanced intelligence analysis.
